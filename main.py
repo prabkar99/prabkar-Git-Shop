@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 print('Hello prabkar :D')
 =======
 print('Hello world :D')
